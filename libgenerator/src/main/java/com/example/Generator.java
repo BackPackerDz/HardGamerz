@@ -9,13 +9,13 @@ import de.greenrobot.daogenerator.ToMany;
 public class Generator {
 
     public static void main(String[] args) throws Exception {
-        Schema schema = new Schema(1000, "com.squalala.android_dz.greendao");
+        Schema schema = new Schema(1000, "com.squalala.hardgamerdz.greendao");
 
         addArticle(schema);
     //    addNote(schema);
      //   addCustomerOrder(schema);
 
-        new DaoGenerator().generateAll(schema, "../Androiddz/app/src/main/java");
+        new DaoGenerator().generateAll(schema, "../HardgamerDz/app/src/main/java");
     }
 
     private static void addArticle(Schema schema) {
