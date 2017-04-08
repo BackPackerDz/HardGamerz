@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">HardGamerz</string>
+
+    <string name="id_google_analytics">UA-70141892-1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="action_search">Recherche</string>
+    <string name="action_share">Partager</string>
+
+    <string name="website_name">hardgamerz.com</string>
+
+    <string name="notification">Notifications</string>
+    <string name="son">Son</string>
+    <string name="Vibreur">Vibreur</string>
+
+    <string name="son_info">Son pour les notifications</string>
+    <string name="activer_notification">Activer les notifications</string>
+    <string name="options">Options</string>
+
+    <string name="no_results">Aucun résultat</string>
+
+    <string name="article_ajouter">Article ajouté dans les favoris</string>
+    <string name="article_retirer">Article retiré des favoris</string>
+
+    <string name="vibreur">Vibreur</string>
+    <string name="vibreur_info">Vibreur pour les notifications</string>
+
+    <string name="led">Led Flash</string>
+    <string name="led_info">Faire clignoter le led du flash</string>
+
+    <string name="reglage">Réglages</string>
+
+    <string name="no_conneciton">Pas de connexion internet</string>
+
+    <string name="oui">Oui</string>
+    <string name="cool">Cool !</string>
+    <string name="non">Non</string>
+
+    <string name="alert_text_note_app">Aimes-tu HardGamerDz ?</string>
+    <string name="note_app">Veux-tu noter l\'application ?</string>
+
+    <string name="cacher_lu">Cacher les lus</string>
+    <string name="tout_marquer_lus">Tout marquer comme lu</string>
+    <string name="tout_supprimer">Tout supprimer</string>
+    <string name="supprimer_tous_les_lus">Supprimer tous les lus</string>
+
+
+    <string name="article_lu_info">Cacher les articles lus</string>
+    <string name="article_lu_title">Article lu</string>
+
+    <string name="developped_by"><![CDATA[<p>Application developped by <a href="https://play.google.com/store/apps/dev?id=5203949265569429056">Fayçal KADDOURI</a></p>]]></string>
+
+
+    <string name="about"><![CDATA[ HardGamerz.com Magazine N°1 d\'actualité du jeu vidéo en Algérie, retrouvez toute l\'actualité gaming en Algérie et par le monde ainsi que les news et informations des événements, actualités geek, films, mangas, séries et high-tech.]]></string>
+
+</resources>

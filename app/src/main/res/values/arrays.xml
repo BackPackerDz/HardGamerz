@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="categories_tags">
+        <item>derniere_24h</item>
+        <item>actualites</item>
+        <item>jeux</item>
+        <item>high-tech</item>
+        <item>evenements</item>
+        <item>seriescinema</item>
+        <item>mangasanimes</item>
+    </string-array>
+
+    <!-- kayen : Actualités, jeux, high-tech,
+    média, Forum / les autres categorie : pc, playstation, xbox, nintendo, android, tout les jeux. -->
+    <string-array name="categories_names">
+        <item>Dernières 24h</item>
+        <item>Actualités</item>
+        <item>Jeux</item>
+        <item>High-Tech</item>
+        <item>Événement</item>
+        <item>Séries/Cinéma</item>
+        <item>Mangas/Animes</item>
+        <item>Favoris</item>
+        <item>Forum</item>
+        <item>Paramètres</item>
+        <item>Contact</item>
+        <item>Notez l\'application</item>
+        <item>A propos</item>
+    </string-array>
+
+
+
+</resources>
